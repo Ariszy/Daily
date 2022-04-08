@@ -1,2 +1,1 @@
-# Daily
-Daily
+#Daily Study
